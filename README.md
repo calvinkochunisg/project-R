@@ -20,6 +20,12 @@ Make sure to input your values in the needed formats otherwise your inputs will 
 
 If you have done everything correctly a PDF will pop up with your generated Chart. The PDF-File will be saved in the same folder as the R-Script File.
 
+## Financial Calculations
+
+To get a better understanding how the chosen instrument is performing, a varies of different financial calculations are included in the code.
+Dependant on the chosen time span, three moving averages (7 days, 50 days and 200 days) can be applied both numerically and graphically.
+The difference between moving average and the last closing price as well as the maximum and minimum daily return will be included as relativ terms.
+
 ### Contributors
 This Program was created by:
 
